@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>701D2B3B-8492-4F33-B835-BD88F0954C87</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Third-step.-Fields" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-48.000000, -396.000000)">
+        <g id="ICON-Done" transform="translate(48.000000, 396.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <path d="M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z M6.5,11.5 L5,13 L10.5,18 L19,8.5 L17.5,7 L10.5,15 L6.5,11.5 Z" id="Combined-Shape" fill="#A7C900" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
